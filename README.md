@@ -1,15 +1,18 @@
-Naam Proefopdracht
-Let goed bij het maken, schrijven en bijhouden van dit document op de prestatie-indicatoren. Deze toon je aan in dit document.
+"Snake 2D" - Erik Kooijman - GD3B
 
-Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan?
+// Omschrijving.
+Ik maak in deze twee weken mijn versie van het bekende spel "Snake".
+In deze opdracht maak ik kennis met het framework genaamd Phaser voor webgames in javascript/typescript.
+Ik ben voornamelijk op zoek geweest naar tutorials over phaser, en hoe ik de mechanics van Snake kan toepassen.
 
-Features
-Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
+// Features.
+Eerste keer gebruik Phaser 3 framework.
 
-Awesome Algoritme
-Specifieke Mechanic
-Iets unieks waar je trots op bent binnen de project
-Software Anaylse
+
+// Waar ben ik trots op?
+Voor het eerst gebruik maken, -leren, en toepassen van Phaser, en iets werkends produceren.
+
+// Software Anaylse.
 Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
 
 Leerdoelen
