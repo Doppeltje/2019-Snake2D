@@ -18,7 +18,8 @@
 
 // Software Anaylse.
 
-*Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.*
+*Ik heb gekozen om gebruik te maken van Atom. Dit is mijn huidige go-to text editor voor het schrijven van code in Javascript.
+Om output te testen maak ik gebruik van een live-server van Node, om vervolgens in Google Chrome te kijken of mijn code werkt.*
 
 // Leerdoelen.
 
@@ -26,9 +27,11 @@
 
 // Planning.
 
-maandag	dinsdag	woensdag	donderdag	vrijdag
-week 1					
-week 2					
+| --- | Maandag | Dinsdag| Woensdag | Donderdag | Vrijdag |
+| --- | --- | --- | --- | --- | --- |
+| Week 1 | Keuze maken opdrachten. | Phaser downloaden. Tutorials zoeken. | Beginnen opzet code.| Meer tutorials. Debuggen. | Aanmaken repository. Readme aanpassen.|
+| Week 2 |---|---|---|---|---|
+
 Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
