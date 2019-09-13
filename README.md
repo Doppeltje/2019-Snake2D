@@ -34,6 +34,6 @@ Om output te testen maak ik gebruik van een live-server van Node, om vervolgens 
 
 // Bronnen.
 
-- [Phaser Examples] (https://phaser.io/phaser3/devlog/85)
-- [YouTube: Getting started with Phaser] (https://www.youtube.com/watch?v=7cpZ5Y7THmo)
-- [YouTube: Getting started with Phaser playlist] (https://www.youtube.com/watch?v=frRWKxB9Hm0&list=PLDyH9Tk5ZdFzEu_izyqgPFtHJJXkc79no)
+- [Phaser Examples](https://phaser.io/phaser3/devlog/85)
+- [YouTube: Getting started with Phaser](https://www.youtube.com/watch?v=7cpZ5Y7THmo)
+- [YouTube: Getting started with Phaser playlist](https://www.youtube.com/watch?v=frRWKxB9Hm0&list=PLDyH9Tk5ZdFzEu_izyqgPFtHJJXkc79no)
