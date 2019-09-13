@@ -32,9 +32,8 @@ Om output te testen maak ik gebruik van een live-server van Node, om vervolgens 
 | Week 1 | Keuze maken opdrachten. | Phaser downloaden. Tutorials zoeken. | Beginnen opzet code.| Meer tutorials. Debuggen. | Aanmaken repository. Readme aanpassen.|
 | Week 2 |---|---|---|---|---|
 
-Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
+// Bronnen.
 
-The Guide To Game Design
-Alleatoric Algorithms
-Flood-Fill Wikipedia
+- [Phaser Examples] (https://phaser.io/phaser3/devlog/85)
+- [YouTube: Getting started with Phaser] (https://www.youtube.com/watch?v=7cpZ5Y7THmo)
+- [YouTube: Getting started with Phaser playlist] (https://www.youtube.com/watch?v=frRWKxB9Hm0&list=PLDyH9Tk5ZdFzEu_izyqgPFtHJJXkc79no)
