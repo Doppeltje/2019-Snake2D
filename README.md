@@ -30,7 +30,7 @@ Om output te testen maak ik gebruik van een live-server van Node, om vervolgens 
 |         | Maandag | Dinsdag| Woensdag | Donderdag | Vrijdag |
 | --- | --- | --- | --- | --- | --- |
 | Week 1 | Keuze maken opdrachten. | Phaser downloaden. Tutorials zoeken. | Beginnen opzet code.| Meer tutorials. Debuggen. | Aanmaken repository. Readme aanpassen.|
-| Week 2 |---|---|---|---|---|
+| Week 2 | Debugging. Grid aanpassen |---|---|---|---|
 
 // Bronnen.
 
