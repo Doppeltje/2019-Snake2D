@@ -20,10 +20,16 @@
 
 *Ik heb gekozen om gebruik te maken van Atom. Dit is mijn huidige go-to text editor voor het schrijven van code in Javascript.
 Om output te testen maak ik gebruik van een live-server van Node, om vervolgens in Google Chrome te kijken of mijn code werkt.
-De game maakt gebruik van het Phaser 3 framework. Dit is een vereiste van de opdracht. Een aantal goede punten aan Phaser zijn:*
+De game maakt gebruik van het Phaser 3 framework. Dit is een vereiste van de opdracht.*
+
+// Een aantal goede punten aan Phaser zijn:
+
 - *Het is begrijpelijk en logisch.*
 - *Er zijn veel voorbeelden te vinden, op zowel youtube als in de documentatie.*
 - *Je kan snel van start, zonder veel voorbereidingen te treffen zoals lange installaties van externe bronnen.*
+
+// Minpunt phaser.
+
 *Een nadeel wat ik zelf vind van Phaser is dat het met al zijn classes veel gebruik maakt van "this." en het kan soms erg verwarrend zijn welke "this." nu in gebruik is.*
 
 // Leerdoelen.
